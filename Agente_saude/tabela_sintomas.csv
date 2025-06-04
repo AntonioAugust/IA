@@ -1,0 +1,9 @@
+Paciente,Febre,Tosse,Espirro,Dor de garganta,Coriza,Dor de cabeça,Doença
+1,comum,comum,raro,as vezes,raro,as vezes,covid19
+2,raro,as vezes,comum,comum,comum,raro,resfriado
+3,comum,comum,raro,as vezes,as vezes,comum,gripe
+4,comum,comum,raro,as vezes,as vezes,comum,gripe
+5,comum,comum,raro,as vezes,raro,as vezes,covid19
+6,raro,as vezes,comum,comum,comum,raro,resfriado
+7,comum,comum,raro,as vezes,raro,as vezes,covid19
+8,comum,comum,raro,as vezes,as vezes,comum,gripe
